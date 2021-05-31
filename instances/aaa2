@@ -1,0 +1,11 @@
+# Example 2
+# This is the example used as a support for exercises during classes (year 2020-2021)
+4 3 # num-jobs num-tasks
+0 1 1 3 2 2
+1 8 0 5 2 10
+0 5 2 4 1 8
+2 4 0 10 1 6
+
+
+
+
